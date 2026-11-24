@@ -4,7 +4,6 @@
 > This package contains **no game files**. You must use your own purchased Windows version (and your own DLC).
 > Not affiliated with or endorsed by ATLUS or SEGA. ©ATLUS ©SEGA.
 
-<MEDIA>
 
 ## What Is This?
 
@@ -54,7 +53,7 @@ You do not need any Terminal or Python experience. Setup is one Terminal command
 
 Even playing for 15–30 minutes and telling me what broke (or worked!) helps a lot. You do not need to finish the game.
 
-- **Tester Discord:** `<DISCORD_INVITE>`
+- **Tester Discord:** https://discord.gg/YPFDF6Q9C9
   - A small server for testers. I am a Japanese student and my English is not very strong, so there is an AI assistant bot in the server that helps answer setup questions and translates messages between us.
 - **GitHub Issues:** [Issues](https://github.com/nocturne-hd-mac-lab/nocturne-hd-mac/issues)
   - Prefer not to use Discord? Please open an issue right here on GitHub.
